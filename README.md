@@ -21,7 +21,7 @@ short_description: "TDS Virtual TA"
 
 ## Project Overview
 
-The TDS Virtual Teaching Assistant is an AI-powered question-answering system developed as a student project for the Tools in Data Science course. This application leverages Retrieval-Augmented Generation (RAG) technology to provide intelligent responses to course-related queries with comprehensive source attribution.
+The TDS Virtual Teaching Assistant is an AI-powered question-answering system developed as a project for the Tools in Data Science course. This application leverages Retrieval-Augmented Generation (RAG) technology to provide intelligent responses to course-related queries with comprehensive source attribution.
 
 ## Key Features
 
