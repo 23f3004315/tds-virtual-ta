@@ -14,5 +14,5 @@ tags:
   - education
   - gemini
   - teaching-assistant
-short_description: "AI-powered RAG-based Teaching Assistant for Tools in Data Science course"
+short_description: "RAG API"
 ---
