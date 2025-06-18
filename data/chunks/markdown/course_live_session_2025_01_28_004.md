@@ -1,0 +1,51 @@
+---
+chunk_id: course_live_session_2025_01_28_004
+source_url: https://tds.s-anand.net/#/live-session-2025-01-28
+source_title: live-session-2025-01-28
+content_type: course
+tokens: 566
+---
+
+ times. I haven't used it, but it generated a key. Can I proceed?**
+
+**A23:** No, you don't need to use the API multiple times. The free OpenAI API access is only through the proxy. A normal OpenAI account is a subscription service and doesn't give you API access. You have to buy tokens to use the API.
+
+---
+
+**Q24: I've used a normal OpenAI account before. I was hoping to use those model IDs. Why can't I?**
+
+**A24:** The free OpenAI account doesn't give you API access. You can only use their web-based service. To use the API, you have to buy tokens.
+
+**Q25: Can you show me how to do that? Can I share my screen?**
+
+**A25:** No need to share your screen. I'll show you how to access the API via the proxy. That's how your project will have to work.
+
+**Q26: The ninth question in the prompt engineering section mentions paying money. Do I have to pay?**
+
+**A26:** No, you don't have to pay.
+
+**Q27: I have a few more questions. Will we have more sessions before GA3 is due?**
+
+**A27:** Yes, we'll have at least three more sessions before GA3 is due.
+
+**Q28: I thought GA3 was due this weekend. Is that wrong?**
+
+**A28:** Yes, it's due this weekend, but we'll have three more sessions before then.
+
+**Q29: I have another question. Is it okay to ask now?**
+
+**A29:** Sure.
+
+**Q30: I submitted my answers, but I don't know if I did it correctly. There's nothing to submit here. I just say "yes"?**
+
+**A30:** You just say "yes" and submit to the URL. It will pick up the API itself.
+
+**Q31: Why isn't it reflecting?**
+
+**A31:** It may be because you haven't pushed to GitHub yet.
+
+**Q32: I have a question about GA1, questions 10 and 11. I posted them on Discourse, but haven't received a reply. In question 10, the hash button is showing an error. In question 11, I don't understand the statement about the class in the hidden element below. What does this line mean?**
+
+**A32:** For question 10, you need to use inverted double quotes for the key and value in the JSON file. For question 11, you need to right-click and inspect the element to find the class name. The data value should be 35.
+
+**Q33: What are some other core concepts that are important to understand?**

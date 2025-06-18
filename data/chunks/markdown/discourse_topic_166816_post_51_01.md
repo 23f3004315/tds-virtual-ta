@@ -1,0 +1,18 @@
+---
+chunk_id: discourse_topic_166816_post_51_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/166816/51
+source_title: Graded Assignments Dashboard Scores Incorrect/Missing
+content_type: discourse
+tokens: 836
+username: carlton
+post_number: 51
+topic_id: 166816
+---
+
+Direct Link**: [Post #51](https://discourse.onlinedegree.iitm.ac.in/t/166816/51)
+
+@22f3000935 I can confirm that your score 77.5 was after midnight of the deadline. Your actual score before the deadline it was 70.
+
+---
+
+**[Discussion Image by carlton]** This image captures a snippet of data related to student grades for the "tds-2025-01-ga1" assignment, likely from a dashboard or gradebook view. The data shows individual records for the student with the email "22f3000935@ds.study.iitm.ac.in", displaying the submission timestamp, score, and maximum possible score. The timestamps show submissions on both "2025-01-27 00:00:23" with a score of 7.75/10, and "2025-01-26 23:59:01" with a score of 7/10. This data is being presented to troubleshoot discrepancies related to the dashboard scores of assignments. The repeated values likely indicate a possible error in how the scores are being aggregated or displayed.This is likely part of a student's question regarding the accuracy of displayed grades." alt="Screenshot 2025-02-19 at 10.57.15 am" data-base62-sha1="gUMUILg46bno1H7dt1VqEFzJ8ah" width="690" height="94" srcset="**[Discussion Image by carlton]** This image depicts a table showing assignment grades within the TDS (Time Data Science) course, likely from a student's "Graded Assignments Dashboard." The table displays assignment names (tds-2025-01-ga1), student IDs (22f3000935@ds.study.iitm.ac.in), submission timestamps (e.g., 2025-01-27 00:00:23), the student's score (e.g., 7.75), and the maximum possible score (10). The discussion centers around discrepancies, where students find the scores displayed here don't match their actual grades, thus showing the confusion students have with the graded assignments dashboard. The table shown has one students id and 2 different grades given on different dates. The table view likely reflects a data representation used for debugging or internal checks., **[Discussion Image by carlton]** This image shows a snippet of a student's graded assignments dashboard, likely as part of a troubleshooting discussion within the online learning platform. The data displays assignment details, specifically for "tds-2025-01-ga1," associated with the student email "22f3000935@ds.study.iitm.ac.in." The table includes columns for the submission timestamp (e.g., "2025-01-27 00:00:23") and the student's score (e.g., "7.75") out of a possible 10. The discussion likely revolves around discrepancies or missing scores, as suggested by the thread title, where the student is comparing their expected grades against what's displayed. 1.5x, **[Discussion Image by carlton]** This image shows a student's view of their graded assignments, specifically the scores for "tds-2025-01-ga1." The table displays the email "22f3000935@ds.study.iitm.ac.in", the submission date/time, the score received (e.g., 7.75 or 7), and the total possible score (10). There are duplicate entries with the same assignment name and email but different dates and scores, suggesting possible regrades or multiple attempts. The core issue is that the student observes inconsistencies or incorrect scores displayed within the assignment dashboard. This screenshot is used in the context of a TDS course where a student named Carlton reported discrepancies between the dashboard scores and the actual grades received. 2x" data-dominant-color="EFEFEF">Screenshot 2025-02-19 at 10.57.15 am2624×358 28.8 KB

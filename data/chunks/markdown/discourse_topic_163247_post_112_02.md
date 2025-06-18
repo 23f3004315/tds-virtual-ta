@@ -1,0 +1,16 @@
+---
+chunk_id: discourse_topic_163247_post_112_02
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/163247/112
+source_title: GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]
+content_type: discourse
+tokens: 617
+username: Sudhishnarayan
+post_number: 112
+topic_id: 163247
+---
+
+ problem, especially when building applications that interact with external services." alt="Screenshot 2025-02-05 205509" data-base62-sha1="fhWtoKzUlKtalblOtbgLWgL6u9m" width="299" height="47">
+
+---
+
+**[Discussion Image by Sudhishnarayan]** This image shows a snippet of text from the "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]" on a student discussion board. It appears to be part of a product update or internal memo, with the OCR text stating: "The product update addresses reported bugs and introduces several enhancements.', 'The Leadership team has approved the expansion of our global IT support network.", "The internal...". This suggests a discussion about the practical applications of LLMs within an IT or organizational context, possibly discussing their role in processing and summarizing such updates. The content is likely shared to provide context for a student question, an instructor answer, or peer discussion about how LLMs can be used in real-world scenarios. The text gives information relating to reported bugs and expanding the global IT support network.GA3 Large Language Models discussion. These updates state: "The product update addresses reported bugs and introduces several enhancements." It also mentions "The Leadership team has approved the expansion of our global IT support network." The post highlights administrative decisions and product improvements relevant to course resources and infrastructure. Overall, it's a general update and informational post from an instructor to students., **[Discussion Image by Sudhishnarayan]** This image shows text from a TDS student discussion thread in the "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]". The text consists of three short statements, likely used as input or output examples in a LLM context: "The product update addresses reported bugs and introduces several enhancements.", "The leadership team has approved the expansion of our global IT support network.", and "The internal...". The discussion likely revolves around analyzing, manipulating, or generating similar text using LLMs. The ellipsis at the end of the third statement suggests the text is incomplete. This is most likely an example of peer discussion. 1.5x, **[Discussion Image by Sudhishnarayan]** This image shows example LLM output within a student discussion; specifically, the model is generating corporate-sounding sentences. The context is the GA3 - Large Language Models - Discussion Thread from January 2025 on TDS, post #112. The output includes sample sentences like "The product update addresses reported bugs and introduces several enhancements" and "The leadership team has approved the expansion of our global IT support network." The purpose is likely to demonstrate the model's ability to generate realistic text based on a given prompt or context, perhaps for a summarization or content creation task within the course. This is a peer discussion since it is showing the raw results of a program the student is running. 2x" data-dominant-color="191919">

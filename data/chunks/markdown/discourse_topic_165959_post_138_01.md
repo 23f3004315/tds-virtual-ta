@@ -1,0 +1,20 @@
+---
+chunk_id: discourse_topic_165959_post_138_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/165959/138
+source_title: GA4 - Data Sourcing - Discussion Thread [TDS Jan 2025]
+content_type: discourse
+tokens: 957
+username: 23f2004941
+post_number: 138
+topic_id: 165959
+---
+
+ : “https://api.github.com/search/users?q=location:Seattle+followers:&gt;120&amp;sort=created&amp;order=desc”
+
+and the output on evaluating is : 2011-05-07T08:30:48Z
+
+But i am getting the error :
+
+---
+
+**[Discussion Image by 23f2004941]** This image captures a student's attempt to answer a question about finding the newest GitHub user in Seattle with over 120 followers, using the GitHub API. The instructions detail how to use the API, process the data, and format the "created_at" date in ISO 8601. The student entered "2011-05-07T08:30:48Z" as the answer, but received an "Incorrect. Try again." error message. The prompt further clarifies the search criteria: filter by location and followers, sort by "joined descending", fetch the first URL, and enter the "created_at" field, specifically ignoring users who joined after 2/7/2025 at 11:00:55 PM. This shows a student struggling with the question and receiving immediate feedback, along with hints for resolving the problem. enter the "created_at" field, while also ignoring users who joined after 2/7/2025 at 11:00:55 PM, suggesting a filter on the returned data." alt="image" data-base62-sha1="o4xgyGbVAaydkQ8YZOe7OVBOlCQ" width="690" height="309" srcset="**[Discussion Image by 23f2004941]** This image captures a TDS student's attempt to answer a question about finding the newest GitHub user in Seattle with over 120 followers using the GitHub API. The student is instructed to use GitHub's search endpoints, filter by location and followers, and sort by `created_at` date in ISO 8601 format. The student enters "2011-05-07T08:30:48Z" as the date, but the system returns "Incorrect. Try again." An instruction at the bottom clarifies that the student must search by location and followers, filter, sort by `joined` descending, fetch the first URL, enter the `created_at` field, and ignore "ultra-new users" who joined after 2/7/2025, 11:00:55 PM. This shows the student's misunderstanding of the sorting parameter, needing to use "joined" instead of "created_at" and to ignore ultra-new users., **[Discussion Image by 23f2004941]** This image captures a student attempting to answer a question in the TDS January 2025 cohort, specifically concerning the use of the Github API. The task is to find users in Seattle with over 120 followers and identify the creation date of the newest user's GitHub profile, formatted in ISO 8601. The prompt gives instructions for API integration, data processing and sorting, then presents the "Impact" of the automation process. The student's initial attempt "2011-05-07T08:30:48Z" is marked as "Incorrect. Try again." Below the failed attempt, there is a hint indicating: "Search using location: and followers: filters, sort by joined descending, fetch the first url, and enter the created_at field. Ignore ultra-new users who JUST joined, i.e. after 2/7/2025, 11:00:55 PM." This reveals the student's problem, they did not follow the directions and are submitting an older date, instead of the newest. 1.5x, **[Discussion Image by 23f2004941]** This image depicts a task in a TDS (Think Data Science) course where students are instructed to use the GitHub API to find the newest GitHub user in Seattle with over 120 followers and provide the user's profile creation date in ISO 8601 format. The problem states to leverage Github's search, isolate profiles, and sort by `created_at` dates. The student has entered "2011-05-07T08:30:48Z" and receives an "Incorrect. Try again." error. The instructions at the bottom clarify to use `location` and `followers` filters, sort by `joined` descending, get the first URL, enter the `created_at` field, and ignore users who joined after 2/7/2025, 11:00:55 PM. This looks like a learning exercise with automated feedback. 2x" data-dominant-color="2C3034">image1889×848 113 KB

@@ -1,0 +1,16 @@
+---
+chunk_id: discourse_topic_169029_post_44_02
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/169029/44
+source_title: Project 2 - TDS Solver - Discussion Thread
+content_type: discourse
+tokens: 698
+username: 23f1001231
+post_number: 44
+topic_id: 169029
+---
+
+0.25F, likely used under different circumstances. The email also includes the open, submission, and peer review dates for ROE1, P1, and P2 assessments. 2x" data-dominant-color="D4D4DA">image788×973 265 KB
+
+---
+
+**[Discussion Image by 23f1001231]** This image shows the initial description of "Project 2 - TDS Solver" within the "Project 2 - TDS Solver - Discussion Thread" on the TDS course forum. It specifies that the project is due on March 31, 2025, and results will be announced on April 15, 2025, directing students to use the Discourse thread for questions. The background describes the project as building an LLM-based application to automatically answer graded assignment questions for the Tools in Data Science course at IIT Madras. The description sets the stage for student discussions and problem-solving related to developing and implementing this LLM application.r clarification." alt="image" data-base62-sha1="cvNrqpBqwXFKBwYuNVsbzWZG2fo" width="690" height="342" srcset="**[Discussion Image by 23f1001231]** This image shows the project description for "Project 2 - TDS Solver" within the TDS (Tools in Data Science) course discussion forum. The project due date is specified as 31 Mar 2025 EoD IST, and results are to be announced by 15 Apr 2025, with a prompt to use the discussion thread for questions. The background section introduces the student's role as an IIT Madras Online Degree in Data Science student enrolled in the "Tools in Data Science" course, tasked with building an LLM-based application for automated assignment question answering. Therefore, this represents background information for an assignment being given to students. No code snippets or specific student questions are included in this image., **[Discussion Image by 23f1001231]** This image presents the context for Project 2 - TDS Solver within the Tools in Data Science course. The project is due on March 31, 2025, with results announced by April 15, 2025, and students are directed to the Discourse thread for questions. The background information describes the student as enrolled in the IIT Madras Online Degree in Data Science, who is tasked with building an LLM-based application to solve graded assignment questions. This likely forms the basis for a student-initiated discussion or an instructor's introductory post. 1.5x, **[Discussion Image by 23f1001231]** This image presents the project description for Project 2, titled "TDS Solver," within the "Tools in Data Science" course at IIT Madras' Online Degree in Data Science. The project is due on March 31, 2025, and results will be announced on April 15, 2025; a "Discourse thread" link is provided for student questions. The background narrative describes the student as one who builds an LLM-based application to automatically answer graded assignment questions, providing context for the project's purpose. This is introductory project information rather than a specific student question, instructor answer, or troubleshooting event. 2x" data-dominant-color="2E383E">image1069×531 41.8 KB

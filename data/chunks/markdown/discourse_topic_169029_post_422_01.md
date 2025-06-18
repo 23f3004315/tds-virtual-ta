@@ -1,0 +1,24 @@
+---
+chunk_id: discourse_topic_169029_post_422_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/169029/422
+source_title: Project 2 - TDS Solver - Discussion Thread
+content_type: discourse
+tokens: 1009
+username: 22f3000819
+post_number: 422
+topic_id: 169029
+---
+
+ were used for all the POST requests
+
+a. http://…/api/ → resulted in 302 response
+
+b. https://…/api → resulted in a 307
+
+whereas the url I gave was of the format “https://…/api/”
+
+The logs from Cloud Run
+
+---
+
+**[Discussion Image by 22f3000819]** This image depicts a snippet of network logs from a student's TDS project, specifically from the "Project 2 - TDS Solver - Discussion Thread," likely showing troubleshooting attempts. The logs reveal a series of HTTP requests to the `/api` endpoint of the application deployed at `tdsproject2shiva-962709320549.asia-south1.run.app`. The requests include POST and GET methods, with responses indicating "307 Temporary Redirect," "302", "200 OK," and, critically, "405 Method Not Allowed" errors. The "405 Method Not Allowed" errors suggest that the student is using the wrong HTTP method (GET instead of POST or vice versa) for certain API endpoints, potentially due to incorrect API usage in their client-side code. The logs also show the source IP address (likely an internal address), timestamps, request sizes, and response times, offering debugging information for the student to pinpoint the source of the errors. The variety of status codes and methods suggests the student is likely testing different endpoints and encountering some configuration or coding mismatches that they need to address. requests. The final POST request results in a 200 OK response, indicating a successful transaction. The student seems to be troubleshooting issues related to incorrect HTTP methods and potential redirect loops when interacting with the API, ultimately resolving it, as indicated by the final 200 status." alt="image" data-base62-sha1="1yD5T9jTaCePxyXL4G2bb8vB5q5" width="690" height="387" srcset="**[Discussion Image by 22f3000819]** This image shows a debugging console log indicating a student's attempt to interact with the TDS Solver API. The log displays a series of HTTP requests, primarily POST and GET requests to the `/api` endpoint of the student's deployed application: `tdsproject2shiva-962709320549.asia-south1.run.app`. There are multiple instances of "405 Method Not Allowed" errors when using GET requests, suggesting an issue with how the student is interacting with the API, potentially using the wrong HTTP method. Several POST requests result in "307 Temporary Redirect" or "302" responses, and one POST request to the api returns a 200 which indicates a successful interaction. The student is likely confused about why GET requests are failing with a 405 error and how to correctly formulate the API requests., **[Discussion Image by 22f3000819]** This image depicts a log output during the TDS solver project, likely captured from a debugging or monitoring tool, showing a mixture of HTTP POST and GET requests to the "/api" endpoint of a deployed application. The log lines indicate the timestamp, request method (POST or GET), HTTP status code (e.g., 200, 302, 307, 405), response size, and latency, along with the source IP address and the URL being accessed. Crucially, there are numerous "405 Method Not Allowed" errors occurring for GET requests, suggesting an issue with how the API is configured to handle GET requests to the "/api" endpoint. Additionally, "307 Temporary Redirect" and "302" status codes are observed for POST requests, indicating redirection behavior, which could be part of the intended application flow or indicate misconfiguration. The log also provides contextual information like the URL `http://tdsproject2shiva-962709320549.asia-south1.run.app/api/` and `https://tdsproject2shiva-962709320549.asia-south1.run.app/api/` indicating the application's location. 1.5x, **[Discussion Image by 22f3000819]** This image captures a portion of a student's debugging logs related to Project 2, the TDS Solver. The logs show a mix of POST and GET requests being sent to the `/api` endpoint of the student's deployed application at `tdsproject2shiva-962709320549.asia-south1.run.app`. The student is encountering several issues including "405 Method Not Allowed" errors for GET requests, and "307 Temporary Redirect" responses for POST requests. The logs also display successful POST requests with a "200 OK" status, showing the student's troubleshooting efforts while attempting to resolve HTTP method issues with their API endpoint. The student is likely facing confusion regarding why certain HTTP methods are not allowed on the specified endpoint, and why the POST requests initially result in redirects. 2x" data-dominant-color="EEEFF0">image982×552 133 KB

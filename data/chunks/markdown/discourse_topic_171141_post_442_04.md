@@ -1,0 +1,17 @@
+---
+chunk_id: discourse_topic_171141_post_442_04
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/171141/442
+source_title: Tds-official-Project1-discrepencies
+content_type: discourse
+tokens: 744
+username: 22f3002723
+post_number: 442
+topic_id: 171141
+---
+
+#10 exporting to image
+#10 exporting layers done
+#10 writing image sha256:2919fe6ce0097ae2fc33aebaba327dbd6a35d256b6d946c97c310fd992944add done
+#10 naming to docker.io/library/tdsproject1:latest done
+`
+**[Discussion Image by 22f3002723]** This image depicts a commit history entry from a student's repository in the TDS official project 1 discussion, showing a commit made on March 30, 2025. The commit message reads "Update Dockerfile removed hard coded proxies," indicating a change to the Dockerfile to remove hardcoded proxy settings, suggesting a troubleshooting step. The commit is marked as "Verified" and the author is "sjay1976," who made the commit "last week". This contributes to a peer discussion, possibly providing a solution to proxy-related issues in the project setup. This shows a specific fix involving Dockerfile configuration related to proxy settings.the student's solution/fix to a previous problem reported in the thread." alt="image" data-base62-sha1="qolXTUtpETES0uyBNNmc1hh6Lj3" width="690" height="54" srcset="**[Discussion Image by 22f3002723]** This image shows a commit history entry, likely from GitHub, within a student's project repository. Specifically, the commit dated March 30, 2025, is titled "Update Dockerfile removed hard coded proxies" and was authored by "sjay1976" last week. The commit is marked as "Verified" and has a commit hash of "a71e3a8". This image suggests the student made a modification to the Dockerfile to remove hardcoded proxy settings, which is a standard security and best practice in containerization. This content is part of a larger discussion on TDS project discrepancies, indicating a troubleshooting process or correction made to the project's Dockerfile configuration. This commit addresses a configuration issue within the project, potentially resolving build problems or security concerns for the student's project., **[Discussion Image by 22f3002723]** This image depicts a commit log entry in a GitHub repository, likely related to a student project. The commit, authored by "rsjay1976" and labelled as "last week", is titled "Update Dockerfile removed hard coded proxies". The commit is marked as "Verified" and is associated with the commit hash "a71e3a8". The surrounding context suggests a discussion about discrepancies in the project, where students may be encountering or resolving issues related to Dockerfile configurations and proxy settings, potentially with instructor guidance. The student seems to be observing a change, and could be checking if it aligns with their expected version or encountering unexpected effects from the change. 1.5x, **[Discussion Image by 22f3002723]** This image displays a commit history from a GitHub repository, which is part of a larger discussion around discrepancies in the TDS official project. The specific commit highlighted is "Update Dockerfile removed hard coded proxies," authored by user "rsjay1976" last week. This commit is marked as "Verified" and has the commit hash "a71e3a8." The timestamp shows the commit was made on Mar 30, 2025, within the context of the project timeline. This information provides context about changes made to the Dockerfile, likely to address proxy configurations during the project. 2x" data-dominant-color="FAFAFA">image1480×117 9.41 KB

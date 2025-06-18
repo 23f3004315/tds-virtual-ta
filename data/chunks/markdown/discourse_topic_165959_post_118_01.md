@@ -1,0 +1,20 @@
+---
+chunk_id: discourse_topic_165959_post_118_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/165959/118
+source_title: GA4 - Data Sourcing - Discussion Thread [TDS Jan 2025]
+content_type: discourse
+tokens: 889
+username: swatikap
+post_number: 118
+topic_id: 165959
+---
+
+118 by swatikap
+
+**Direct Link**: [Post #118](https://discourse.onlinedegree.iitm.ac.in/t/165959/118)
+
+Even I’m getting a similar error in Q2, it is expecting a foreign title whereas my search result gives only English titles.
+
+---
+
+**[Discussion Image by swatikap]** This image from a TDS student discussion thread shows a student asking "What is the JSON data?". The image displays a JSON data snippet containing movie information with fields like "id", "title", "year", and "rating". However, there's an error message indicating a mismatch in the "title" value. The expected title is "13. Pideme lo que quieras", but the actual title in the JSON data is "13. Ask Me What You Want", signaling a data validation or comparison issue where the expected and actual values don't align. This reveals a potential data quality problem or a misunderstanding of the expected dataset contents.e expected title is "13. Pideme lo que quieras" while the actual title is "13. Ask Me What You Want". This implies a data discrepancy or translation issue." alt="image" data-base62-sha1="ziZusdC4SqnQ1rgDoZ1re9KyUyg" width="690" height="106" srcset="**[Discussion Image by swatikap]** This image shows a student's question about JSON data, and a visible error message indicates a data mismatch. The JSON data provided includes fields like "id" (tt8712204), "title" ("25. Batwoman"), "year" ("2019-2022"), and "rating" ("3.6"). However, the error message "Error: At [12].title: Values don't match. Expected: "13. Pideme lo que quieras". Actual "13. Ask Me What You Want"" indicates a discrepancy in the "title" field. It seems that the expected value was "13. Pideme lo que quieras" (Spanish for "Ask Me What You Want"), while the actual value encountered was "13. Ask Me What You Want". The student is likely confused about this mismatch and needs guidance to resolve it, as the error suggests a translation mismatch between the expected and actual titles., **[Discussion Image by swatikap]** This image shows a student question in a TDS discussion thread about JSON data. The student presents a JSON object with fields like "id", "title", "year", and "rating" for a movie. An error message below the JSON indicates a mismatch in the "title" field during data validation. The error states "Error: At [12].title: Values don't match. Expected: '13. Pídeme lo que quieras'. Actual: '13. Ask Me What You Want'", implying that the expected value for the title was in Spanish while the actual value found was in English, highlighting a data consistency issue. The context suggests the student is encountering problems with data sourcing, likely in a GA4 (Google Analytics 4) project. 1.5x, **[Discussion Image by swatikap]** This image depicts a student question in the TDS "GA4 - Data Sourcing" discussion thread, specifically asking about the displayed JSON data, which includes fields like "id," "title," "year," and "rating" along with example values. The image also shows an error message indicating a data validation failure: "Error: At [12].title: Values don't match. Expected: '13. Pídeme lo que quieras'. Actual: '13. Ask Me What You Want'". The error message suggests that the student is trying to validate the JSON data against a specific schema or expected values and that the value for the "title" field at index 12 does not match the expected value, showing a discrepancy between the expected title in Spanish and the actual title in English. This indicates a potential issue with data translation or localization, where the student may be using incorrect language translations in the dataset. Therefore, there is a mismatch that should be addressed to ensure data integrity. 2x" data-dominant-color="FBF9FA">image1614×250 14.4 KB

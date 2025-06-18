@@ -1,0 +1,18 @@
+---
+chunk_id: discourse_topic_169283_post_41_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/169283/41
+source_title: Graded assignment 6
+content_type: discourse
+tokens: 739
+username: 23f1001231
+post_number: 41
+topic_id: 169283
+---
+
+ @Saransh_Saini
+
+In Q4 , neither which regression model to use is given nor the what random state to use is given. I tried linear regression, random forest regression but it is giving answer which vary each time I compute, also, the option values are quite close.
+
+---
+
+**[Discussion Image by 23f1001231]** This image depicts a student's attempt at a graded assignment question within the TDS course, specifically question 4, likely related to time series forecasting. The problem statement asks the student to develop a forecasting model to predict the 2027 resale value of a Hero - HF Deluxe motorcycle in Punjab, considering seasonality and long-term trends. The student selected the answer "142646" from the multiple-choice options (194515, 185108, 142646, 152609), but received feedback that the answer was incorrect, resulting in a score of 0 for the question. This indicates a potential area of confusion for the student regarding the correct application of forecasting techniques to the given scenario. This post is a student submission that has received an automated grade of zero indicating that it is incorrect.r the student to re-evaluate their forecasting approach." alt="image" data-base62-sha1="hWqmlQlqzKAsjVaXT6VqH3FshEF" width="690" height="250" srcset="**[Discussion Image by 23f1001231]** This image depicts a multiple-choice question from the "Graded assignment 6" discussion within the TDS student forum. The question asks the student to forecast the 2027 resale value of a Hero - HF Deluxe motorcycle in Punjab, considering seasonality and long-term trends. The student selected "142646" from the given options: 194515, 185108, 142646, and 152609. The system provides feedback indicating "No, the answer is incorrect." and the student's score for this question is 0. This represents a student's attempt at a graded assignment and a system-provided incorrect answer notification., **[Discussion Image by 23f1001231]** This image captures a multiple-choice question from "Graded assignment 6" in a TDS course, where students must forecast the 2027 resale value of a Hero - HF Deluxe motorcycle in Punjab based on historical data. The student (23f1001231) selected "142646" as their answer, but the system indicates this is incorrect with the message "No, the answer is incorrect." and a score of "0." This interaction shows direct feedback on a graded assessment, highlighting a point of confusion or error in the student's forecasting approach. The question requires knowledge of forecasting models, motorcycle resale trends, and the ability to apply historical data to predict future values. 1.5x, **[Discussion Image by 23f1001231]** This image captures a student's attempt to answer a question on a graded assignment. The question asks the student to develop a forecasting model and then use it to predict the 2027 resale value of a Hero HF Deluxe motorcycle in Punjab, considering seasonality and long-term trends, with the help of historical data. The student selected the answer "142646," but the system indicates that this choice is incorrect and their score is currently 0. This suggests the student needs to revisit the forecasting model or the input historical data to arrive at the correct resale value. The image shows feedback given by the autograder system to the student. 2x" data-dominant-color="FCFBFB">image1227×446 24 KB

@@ -1,0 +1,20 @@
+---
+chunk_id: discourse_topic_166816_post_46_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/166816/46
+source_title: Graded Assignments Dashboard Scores Incorrect/Missing
+content_type: discourse
+tokens: 923
+username: 23f1002510
+post_number: 46
+topic_id: 166816
+---
+
+ for the week 4 and the saved scores says i have got 2 marks. ( TDS 2025 Jan GA4 - Data Sourcing).
+
+But in the evaluation it says i have not submitted the GA4 from this course. Can you please clarify the same.
+
+Attached the screenshots for both
+
+---
+
+**[Discussion Image by 23f1002510]** This image shows a student's view of a "Graded Assignments Dashboard" related to bonus marks for posting on the "GA4 - Data Sourcing - Discussion Thread [TDS Jan 2025]" Discourse forum. The dashboard indicates that the assignment ended on February 9, 2025, at 11:59 PM IST, and initially shows a score of 0. The student is logged in as "23f1002510@ds.study.iitm.ac.in," and the page displays "Recent saves," indicating previous scores of 2 at different timestamps on the same date (09/02/2025). The "Reload" button next to each timestamp suggests the user can refresh these saved scores; a "Check all" and "Save" button are also available at the top of the screen. It suggests that the system is not updating the main score immediately, but has the capability of tracking it.ial issue with the dashboard's score calculation or display. The student might be confused as the most recent save should be the reflected score." alt="image" data-base62-sha1="lzJOqhyRljrWjFmKrep3X9f67F8" width="690" height="330" srcset="**[Discussion Image by 23f1002510]** This image depicts a student's view of a graded assignment dashboard related to a "Bonus marks for posting on Discourse" activity, likely as part of the TDS (TDS Jan 2025) course. The student, logged in as 23f1002510@ds.study.iitm.ac.in, can earn a bonus mark for replying to the "GA4 - Data Sourcing" discussion thread. Although the assignment has ended (Feb 9, 2025), the dashboard shows the student's current "Score: 0" along with "Check all" and "Save" buttons; interestingly, below there is a log of "Recent saves" showing repeated score entries of "2" from the assignment end date. The "Reload" button next to these saves suggests the student may be attempting to update or verify their score. This points to a possible UI or backend discrepancy where the displayed score doesn't reflect the saved scores, and the student may be seeking a solution or clarification regarding this incongruity., **[Discussion Image by 23f1002510]** This image depicts a student's view of their "Graded Assignments Dashboard," specifically showcasing bonus marks awarded for participation in a Discourse thread. The student, logged in as 23f1002510@ds.study.iitm.ac.in, sees a message indicating that replying to the "GA4 - Data Sourcing - Discussion Thread [TDS Jan 2025]" with a relevant question or reply earns a 1-point bonus. The interface displays the deadline as February 9, 2025, 11:59 pm IST, and indicates a current score of 0, with options to "Check all" and "Save." "Recent saves" shows multiple entries from 09/02/2025 with a score of 2, suggesting that the student may be confused as to why the overall score is showing as 0 when there are past saves with a score of 2. 1.5x, **[Discussion Image by 23f1002510]** This image shows a student's view of a graded assignment dashboard, indicating a peer discussion related to scores. The dashboard highlights "Bonus marks for posting on Discourse" where IITM BS students can earn 1 bonus mark for replying to the GA4 - Data Sourcing - Discussion Thread. The student is logged in with their IITM email address. The dashboard displays a score of 0, along with "Check all" and "Save" buttons, while recent saves show a score of 2 from multiple attempts on February 9, 2025, suggesting a potential discrepancy between the displayed score and the saved scores. This discrepancy would cause student confusion regarding their actual grade. 2x" data-dominant-color="272825">image1854×888 107 KB

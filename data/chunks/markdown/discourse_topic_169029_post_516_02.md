@@ -1,0 +1,16 @@
+---
+chunk_id: discourse_topic_169029_post_516_02
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/169029/516
+source_title: Project 2 - TDS Solver - Discussion Thread
+content_type: discourse
+tokens: 702
+username: 24f1002359
+post_number: 516
+topic_id: 169029
+---
+
+ a POST request to be sent. The same student filled in this form field with his vercel link "https://tdsproject2.vercel.app/api/". 2x" data-dominant-color="F3F0F8">image1503×644 37.4 KB
+
+---
+
+**[Discussion Image by 24f1002359]** This image shows a UI for students to submit questions related to the TDS project. The page, accessed via the URL `tdsproject2.vercel.app/api/`, features a form titled "Submit Your Question." The form includes a text area for the question itself and an optional file upload ("Upload ZIP File (optional):"). The "Choose File" button is present, and the default text "No file chosen" indicates that no file has been selected yet. A "Submit" button at the bottom of the form allows the student to send their question. This UI likely facilitates communication between students and instructors regarding project-related problems or clarifications.o the TDS solver tool to get assistance." alt="image" data-base62-sha1="8WO1oYt3VjdZlrN8WEyVZavdz7j" width="690" height="345" srcset="**[Discussion Image by 24f1002359]** This image shows the "Submit Your Question" form in the TDS Solver project discussion, likely displayed on the `tdsproject2.vercel.app/api/` webpage. The form includes a text area labeled "Question:", an "Upload ZIP File (optional)" section with a "Choose File" button and the text "No file chosen", and a blue "Submit" button. This suggests a student's attempt to submit a question related to Project 2. The student likely encountered an issue or has a question they wish to clarify with the instructor or peers via this submission form, possibly relating to the TDS solver or project requirements. The inclusion of the optional ZIP file upload suggests the possibility of submitting code or related files for context., **[Discussion Image by 24f1002359]** This image depicts the UI for students to submit questions related to TDS Solver Project 2, and originates from a discussion thread within the course. The UI includes a text area for the question itself, an optional file upload (ZIP format), and a "Submit" button. Currently, it shows that "No file" has been chosen for upload. Accessing this UI requires navigating to the URL "tdsproject2.vercel.app/api/," which is displayed in the browser's address bar. This is a likely part of a debugging or testing process. 1.5x, **[Discussion Image by 24f1002359]** This image shows the UI of a "Submit Your Question" form from the TDS project 2 discussion thread. The form includes a text area for the question, a file upload option for a ZIP file (optional), and a submit button. The URL is "tdsproject2.vercel.app/api/". It's likely a student is trying to submit a question and possibly their code for the TDS solver project and the discussion involves troubleshooting the process. The "No file chosen" text indicates no file has been selected for upload, which could be relevant to the issue being discussed. 2x" data-dominant-color="ECEFF3">image1905×953 32.7 KB

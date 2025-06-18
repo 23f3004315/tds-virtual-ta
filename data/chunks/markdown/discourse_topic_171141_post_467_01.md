@@ -1,0 +1,20 @@
+---
+chunk_id: discourse_topic_171141_post_467_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/171141/467
+source_title: Tds-official-Project1-discrepencies
+content_type: discourse
+tokens: 891
+username: Wagisha_28
+post_number: 467
+topic_id: 171141
+---
+
+.onlinedegree.iitm.ac.in/t/171141/467)
+
+@carlton Requested sir
+
+This is to request that in my evaluation a got 0 cause of the use of lowercase d instead of uppercase D but I have already submitted the docker file in my git hub repo also.
+
+---
+
+**[Discussion Image by Wagisha_28]** This image shows a student's GitHub repository file structure as part of a TDS project discussion. The repository includes essential files such as `.dockerignore`, `.gitattributes`, `.gitignore`, `LICENSE`, `README.md`, `app.py`, `datagen.py`, `dockerfile`, `evaluate.py`, `requirements.txt`, `tasksA.py`, and `tasksB.py`, all "added" approximately 2 months ago, except for `.gitattributes` which is marked as the "Initial commit". The student (wag28) likely shared this to illustrate the project's initial file setup and potentially to inquire about any missing or unexpected files. The image helps establish the shared project context within the student discussion.s and those expected for the project, which is discussed in the "Tds-official-Project1-discrepencies" thread." alt="WhatsApp Image 2025-04-11 at 23.34.06_a49fd1e5" data-base62-sha1="2IJDQs92yWcHMcrAkae5moo7fcV" width="627" height="500" srcset="**[Discussion Image by Wagisha_28]** This image captures a screenshot of a student's GitHub repository for the TDS (The Data Science) project, showing the files in the project. It appears in a discussion about discrepancies in the project. The screenshot includes filenames such as `.dockerignore`, `.gitattributes`, `.gitignore`, `LICENSE`, `README.md`, `app.py`, `datagen.py`, `dockerfile`, `evaluate.py`, `requirements.txt`, `tasksA.py`, and `tasksB.py`. All files are listed as "added" except `.gitattributes` which is marked as "Initial commit", and the right-hand side displays "2 months ago" beside most files. This indicates the initial project setup or commit history, potentially highlighting versioning or differing states of the project files between students and/or instructors., **[Discussion Image by Wagisha_28]** This image captures a student, wag28, sharing their project repository's file structure as part of a discussion thread, showing a series of added files and the initial commit. The files listed include `.dockerignore`, `.gitattributes`, `.gitignore`, `LICENSE`, `README.md`, `app.py`, `datagen.py`, `dockerfile`, `evaluate.py`, `requirements.txt`, `tasksA.py`, and `tasksB.py`. The file list is displayed within a GitHub or similar version control platform interface showing when each file was added or initially committed, with timestamps indicating "2 months ago." This likely is a reference point for the ongoing discussion about discrepancies and project requirements. The student might be seeking confirmation that they have the correct file structure. 1.5x, **[Discussion Image by Wagisha_28]** This image shows a student, Wagisha_28 (wag28), posting a screenshot of their GitHub repository file listing in the TDS official Project 1 discussion. The file list includes common files like '.dockerignore', '.gitattributes', '.gitignore', 'LICENSE', and 'README.md', as well as project-specific Python files such as 'app.py', 'datagen.py', 'evaluate.py', 'tasksA.py', and 'tasksB.py', along with 'Dockerfile' and 'requirements.txt', all marked as "added" around 2 months ago, with '.gitattributes' indicating "Initial commit". The purpose of posting this is likely to visually share the contents of their project repository with peers or instructors, perhaps to highlight a specific file, ask a question about the project structure, or compare their file setup to a reference. The presence of these files confirms the project's reliance on Python, Docker, and standard version control practices. 2x" data-dominant-color="12151D">WhatsApp Image 2025-04-11 at 23.34.06_a49fd1e5912×727 79.5 KB

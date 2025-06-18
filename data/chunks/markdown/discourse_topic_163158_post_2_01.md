@@ -1,0 +1,22 @@
+---
+chunk_id: discourse_topic_163158_post_2_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/163158/2
+source_title: Tds jan 2025 calender accesss and video lecture access in portal
+content_type: discourse
+tokens: 974
+username: jahnavih
+post_number: 2
+topic_id: 163158
+---
+
+ #2 by jahnavih
+
+**Direct Link**: [Post #2](https://discourse.onlinedegree.iitm.ac.in/t/163158/2)
+
+Same issue with me sir.
+
+This is how my dashboard looks like. It shows the same for week 2 as well.
+
+---
+
+**[Discussion Image by jahnavih]** This screenshot depicts part of a student discussion on TDS (likely a course on the IIT Madras platform) focusing on accessing a "Graded Assignment 1." The image shows the assignment details, specifying a due date of January 26, 2025, at 23:59 IST, and lists potential troubleshooting steps for access issues such as disabling ad blockers, allowing cookies, ensuring JavaScript is enabled, using Chrome browser, disabling browser extensions, and checking anti-virus software configurations. It emphasizes the need to use the student's ID (e.g., 22f3xxxxxx@ds.study.iitm.ac.in) for evaluation, indicating the importance of identity verification. The assignment instructions also includes a question with "Yes" and "No" options confirming the user has seen and attempted the assignment available via a link. The navigation menu on the left shows modules (Course Introduction, Module 1: Development Tools, Module 2: Deployment Tools) and Grades, suggesting a standard course management system interface. "I have seen the Graded Assignment 1 available at this link and have attempted it" with "Yes" and "No" radio button options for response, indicating a potential confirmation step." alt="dashboard_tds_jahnaviHunsigida" data-base62-sha1="h9aJHFjfRVVNyoAe613cI3JHML7" width="690" height="413" srcset="**[Discussion Image by jahnavih]** The image shows a screenshot of the "Graded Assignment 1" page within the IIT Madras online course portal for "Jan 2025-TDS". The assignment due date is listed as "2025-01-26, 23:59 IST." It provides instructions for students having difficulty accessing the assignment including disabling ad blockers, enabling cookies and JavaScript, using Chrome, disabling browser extensions, and avoiding aggressive anti-virus software, and reminds the student to use their student ID. There is a confirmation question asking if the student has seen the assignment at "this link" and attempted it, with "Yes" and "No" radio button options. The left navigation shows "Course Introduction", "Module 1: Development Tools" with "Graded Assignment 1" selected, and "Module 2: Deployment Tools", suggesting that the student is navigating to the assignment through the Modules section., **[Discussion Image by jahnavih]** This image is from a student discussion forum and displays the "Graded Assignment 1" page within the IIT Madras Jan 2025-TDS course portal. The assignment's due date is January 26, 2025. The page provides troubleshooting guidance for students experiencing difficulties accessing the assignment, including disabling ad blockers, enabling cookies and Javascript, using the Chrome browser, disabling browser extensions, and ensuring anti-virus software isn't interfering. Students are reminded to use their Student ID (e.g., 22f3xxxxxx@ds.study.iitm.ac.in) to complete the assignment. At the bottom, there is a question "I have seen the Graded Assignment 1 available at this link and have attempted it" with "Yes" and "No" radio button options. 1.5x, **[Discussion Image by jahnavih]** This image captures part of a course assignment page, likely an instructor providing guidance for accessing and completing "Graded Assignment 1" in the "Jan 2025-TDS" course on an IIT Madras platform. The page displays the assignment's due date (2025-01-26, 23:59 IST) and clarifies that multiple submissions are allowed, with the final submission being considered. It provides a list of troubleshooting steps to address potential access issues, advising students to disable ad blockers, enable cookies and Javascript, use Chrome, disable browser extensions, and ensure their antivirus software isn't overly aggressive. The assignment requires using the student's IITM ID (e.g., 22f3xxxxxx@ds.study.iitm.ac.in) and has a confirmation question with "Yes" or "No" options. The navigation menu shows "Module 1: Development Tools" selected, with "Graded Assignment 1" as a sub-item. 2x" data-dominant-color="EAE9EC">dashboard_tds_jahnaviHunsigida936×561 93.3 KB

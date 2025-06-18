@@ -1,0 +1,16 @@
+---
+chunk_id: discourse_topic_169029_post_98_05
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/169029/98
+source_title: Project 2 - TDS Solver - Discussion Thread
+content_type: discourse
+tokens: 728
+username: lakshaygarg654
+post_number: 98
+topic_id: 169029
+---
+
+ the scraper code due to periodic changes in results. The image shows a troubleshooting scenario related to data discrepancies when scraping information from IMDb, highlighting potential regional differences and data updates. 2x" data-dominant-color="F8F7FA">image1674×420 24.3 KB
+
+---
+
+**[Discussion Image by lakshaygarg654]** This image presents search results, seemingly for media content, possibly from a streaming service or database. The results include movie or TV show titles like "Nadaaniyan" and "Watson," each accompanied by relevant metadata. "Nadaaniyan" has a release year of 2025, a runtime of 1 hour and 59 minutes, a TV-14 rating, and a user rating of 3.0 (based on 14K ratings), along with a brief synopsis of the plot involving a Delhi socialite. The results show the structure of how content information is displayed in such platforms.ject." alt="image" data-base62-sha1="ss7mwdamNqYCnpKu9KHeZpRRnlp" width="517" height="165" srcset="**[Discussion Image by lakshaygarg654]** This image depicts a movie recommendation entry from a streaming service UI, specifically item number 6, titled "Nadaaniyan," which has a rating of 3.0 based on 14,000 reviews. The movie is listed as being released in 2025 with a runtime of 1 hour and 59 minutes and rated TV-14. A short description indicates the plot involves a privileged Delhi socialite who hires a middle-class student to act as her boyfriend, with complications arising as they develop genuine feelings. This screenshot is from a student discussion forum related to a "TDS Solver" project., **[Discussion Image by lakshaygarg654]** This image shows a snippet of a movie or show listing, specifically number 6, titled "Nadaaniyan," along with its release year (2025), runtime (1h 59m), rating (TV-14), a 3.0 rating based on 14K reviews, and an option to rate. Below the title is a brief description: "A privileged Delhi socialite hires a middle-class student to pose as her boyfriend to maintain her social status. Their pretense becomes complicated when genuine feelings develop between them." The discussion context is unclear. This most likely shows information about a movie or TV show, with details like its genre, rating, and a short plot summary, possibly as part of recommendations or search results. 1.5x, **[Discussion Image by lakshaygarg654]** This image represents content from a webpage, likely related to a movie or TV show listing service. It shows details of a show called "Nadaaniyan," which includes its year of release (2025), runtime (1h 59m), rating (TV-14), user rating (3.0/5 with 14K ratings), and a brief synopsis: A privileged Delhi socialite hires a middle-class student to pose as her boyfriend to maintain her social status. Their pretense becomes complicated when genuine feelings develop between them. The item is numbered as "6" in the list and has an icon to add to a watchlist. A similar listing for "Watson" numbered as 7 is partially visible underneath. 2x" data-dominant-color="F3F2F2">image1118×358 63.7 KB

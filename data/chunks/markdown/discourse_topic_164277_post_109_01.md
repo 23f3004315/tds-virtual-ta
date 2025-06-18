@@ -1,0 +1,20 @@
+---
+chunk_id: discourse_topic_164277_post_109_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/164277/109
+source_title: Project 1 - LLM-based Automation Agent - Discussion Thread [TDS Jan 2025]
+content_type: discourse
+tokens: 938
+username: carlton
+post_number: 109
+topic_id: 164277
+---
+
+discourse.onlinedegree.iitm.ac.in/t/164277/109)
+
+Hi Telvin
+
+You have run out of tokens. Thats what the message is saying. You ran out 3 days ago. It was clearly mentioned that the limit is $1. You have exceeded $2.
+
+---
+
+**[Discussion Image by carlton]** This image is of course material within the "Large Language Models" section of the "Tools in Data Science" website for the TDS Jan 2025 course. It appears to be instructor-provided instructions or guidelines. It states that LLMs incur a cost and API keys have been created for students with an `iitm.ac.in` email address to use models like `gpt-4o-mini` and `text-embedding-3-small`, with a usage limit of $1 per calendar month. The instructions further advise students to use an "AI Proxy" instead of OpenAI directly, outlining steps to replace the OpenAI API with `https://aiproxy.sanand.workers.dev/openai/...` and the `OPENAI_API_KEY` with an `AIPROXY_TOKEN`. This information helps manage costs and potentially provides a course-specific proxy setup.ft sidebar shows the course structure, with "Large Language Models" expanded, and options like "Prompt engineering" and "TDS TA Instructions" listed." alt="Screenshot 2025-02-11 at 3.36.50 pm" data-base62-sha1="3UT9vulaDP4aGOL6pZaeJ0PSs7z" width="690" height="423" srcset="**[Discussion Image by carlton]** This image is from the TDS student discussion thread, showing the "Large Language Models" page from the course website. It specifies that LLMs incur a cost and that API keys have been created for students with an `iitm.ac.in` email, allowing them to use `gpt-4o-mini` and `text-embedding-3-small`, with a usage limit of $1 per calendar month. The page also instructs students to use the AI Proxy instead of OpenAI, providing instructions to replace the OpenAI API URL (`https://api.openai.com/...`) with the AI Proxy URL (`https://aiproxy.sanand.workers.dev/openai/...`) and to replace the `OPENAI_API_KEY` with the `AIPROXY_TOKEN` they will receive. This provides clear instructions for the students on how to set up their environment for using LLMs while staying within the allocated budget., **[Discussion Image by carlton]** This image from the TDS discussion forum shows instructions related to using Large Language Models (LLMs) within the course environment. It's a guidance post, not a student question or peer discussion. The material explains that LLMs have a cost, and students with "@iitm.ac.in" email addresses have API keys to use the gpt-4o-mini and text-embedding-3-small models. The text highlights a strict usage limit of $1 per calendar month, emphasizing that this limit should not be exceeded. To avoid using OpenAI directly, the instructions explain how to use an AI Proxy by replacing the OpenAI API endpoint with "https://aiproxy.sanand.workers.dev/openai/..." and the "OPENAI_API_KEY" with "AIPROXY_TOKEN." 1.5x, **[Discussion Image by carlton]** This image shows documentation from the TDS (Tools in Data Science) course on Large Language Models. The page explains that using LLMs incurs a cost, and students with an `iitm.ac.in` email have API keys to use `gpt-4o-mini` and `text-embedding-3-small`, with a $1 per calendar month usage limit. It instructs students to use the AI Proxy instead of OpenAI, specifically replacing the OpenAI API URL with `https://aiproxy.sanand.workers.dev/openai/...` and replacing `OPENAI_API_KEY` with `AIPROXY_TOKEN`. This content provides instructions and limitations on LLM usage for students in the course, acting as guidance to avoid cost overruns. The left-hand navigation shows the user is within the "Large Language Models" section of the "Deployment Tools" module. 2x" data-dominant-color="EAEAEA">Screenshot 2025-02-11 at 3.36.50 pm2078×1276 305 KB

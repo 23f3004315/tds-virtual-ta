@@ -1,0 +1,24 @@
+---
+chunk_id: discourse_topic_164277_post_524_00
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/164277/524
+source_title: Project 1 - LLM-based Automation Agent - Discussion Thread [TDS Jan 2025]
+content_type: discourse
+tokens: 254
+username: 21f3000745
+post_number: 524
+topic_id: 164277
+---
+
+## Post #524 by 21f3000745
+
+**Direct Link**: [Post #524](https://discourse.onlinedegree.iitm.ac.in/t/164277/524)
+
+sir for this task- A6 Find all Markdown (`.md` ) files in `/data/docs/` . For each file, extract the first occurrance of each H1 (i.e. a line starting with `# ` ). Create an index file `/data/docs/index.json` that maps each filename (without the `/data/docs/` prefix) to its title (e.g. `{"README.md": "Home", "path/to/large-language-models.md": "Large Language Models", ...}` ) …I am getting correct result for all files but for the very first file budget.md it shows wrong.
+
+my result- { “budget.md”: “Success easy same main modern doctor.”,
+
+“build.md”: “Shoulder follow own never above.”,
+
+and in the data files there is different heading in budget.md.- # Series dog who make specific agree between.
+
+my question is this if it works for all the files then why not for this file budget.md @Saransh_Saini @Jivraj @carlton

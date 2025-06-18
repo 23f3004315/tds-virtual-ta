@@ -1,0 +1,22 @@
+---
+chunk_id: discourse_topic_172246_post_40_00
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/172246/40
+source_title: Bonus Marks in TDS for Jan 25
+content_type: discourse
+tokens: 253
+username: Sagan
+post_number: 40
+topic_id: 172246
+---
+
+## Post #40 by Sagan
+
+**Direct Link**: [Post #40](https://discourse.onlinedegree.iitm.ac.in/t/172246/40)
+
+Thanks for the clarification. I completely understand that bonus marks are at the discretion of the course team and are meant to reward diligence and deeper engagement — which is fair.
+
+However, I just want to point out a potential nuance: Many of the 192 students who did GA7 may have done so *not* for extra learning but simply to ensure their top 4 GAs included 4 full scores (e.g., to replace a lower-scoring GA). So the distinction between diligence-for-learning and diligence-for-grade-maximizing becomes blurred.
+
+Now that bonus marks are announced *after* the deadline, those who already had 4 perfect scores and skipped GA7 based on the stated structure (top 4 out of 7) are essentially penalized for playing the game by the original rules — not for a lack of diligence or engagement.
+
+I’m not questioning the bonus system itself, just pointing out that such surprises can unintentionally favor certain strategies over others — and more transparency around this in future terms might help students make better-informed decisions without second-guessing themselves later.

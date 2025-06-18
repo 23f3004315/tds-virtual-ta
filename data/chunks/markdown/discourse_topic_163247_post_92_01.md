@@ -1,0 +1,20 @@
+---
+chunk_id: discourse_topic_163247_post_92_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/163247/92
+source_title: GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]
+content_type: discourse
+tokens: 839
+username: 22f2001630
+post_number: 92
+topic_id: 163247
+---
+
+f2001630
+
+**Direct Link**: [Post #92](https://discourse.onlinedegree.iitm.ac.in/t/163247/92)
+
+To this question I have checked values ranging from 6 to 13 none of them are correct, using openAI Tokenizer online tool.
+
+---
+
+**[Discussion Image by 22f2001630]** This image depicts a question from a Graded Assignment regarding LLM token cost. The assignment provides context about LexiSolve Inc., an AI startup optimizing costs via token usage diagnostics. The student is prompted to consider an OpenAI's GPT-40-Mini request, specifically analyzing the number of input tokens required for the user message: "List only the valid English words from these: ... how many input tokens does it use up?". The prompt includes a hint to account for extra tokens added by the user message itself, suggesting there is more to the token count calculation than just counting tokens from the user's explicit request. The student needs to input the number of tokens, then click "Check" to assess their answer.ting that the request takes up extra tokens. A "Check" button is visible to submit the answer. The UI shows a time remaining, score, "Check all" and "Save" buttons, indicating this is part of a graded assignment." alt="image" data-base62-sha1="pzMqsANmgbkGmBJmKw3vCawhHWL" width="690" height="388" srcset="**[Discussion Image by 22f2001630]** This image captures a student's attempt at a graded assignment related to LLM token cost, likely part of the TDS Jan 2025 course. The question involves understanding tokenization in OpenAI's GPT-4o-Mini, specifically determining how many input tokens are used by the prompt "List only the valid English words from these: ... how many input tokens does it use up?". The assignment emphasizes that user messages may consume extra tokens, guiding the student to consider this detail when providing the number of tokens. The student will input their answer in the "Number of Tokens:" field and then click "Check" to assess their answer. This represents an individual student working through an exercise to understand the practical implications of token usage in LLMs., **[Discussion Image by 22f2001630]** This image depicts a question from a graded assignment in the TDS Jan 2025 GA3 course, specifically focusing on "LLM Token Cost". The question presents a scenario involving LexiSolve Inc., a startup using OpenAI's language models, and asks students to determine the number of input tokens used by a specific prompt sent to GPT-4o-Mini. The prompt instructs the model to "List only the valid English words from these:" followed by a masked string of words, and asks how many input tokens it will use. The task requires understanding text tokenization and the impact of user message indicators on token count, emphasizing the importance of token accounting for cost management. Students need to calculate the total tokens, keeping in mind the additional tokens needed for the request itself. 1.5x, **[Discussion Image by 22f2001630]** This image depicts a graded assignment question focused on LLM token cost within the TDS Jan 2025 course. The question asks students to determine the number of input tokens used when making a request to OpenAI's GPT-4o-Mini model with a specific user message and to list only the valid english words from these. The user message includes a prompt to "List only the valid English words from these:" followed by an obscured list of words and ending with the question "... how many input tokens does it use up?". The prompt reminds students that user messages take up extra tokens, suggesting the token count is higher than just the visible words. Students are expected to input the number of tokens in a provided text field before checking their answer. 2x" data-dominant-color="C5D1CF">image1920×1080 248 KB

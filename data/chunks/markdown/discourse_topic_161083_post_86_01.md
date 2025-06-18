@@ -1,0 +1,18 @@
+---
+chunk_id: discourse_topic_161083_post_86_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/161083/86
+source_title: GA1 - Development Tools - Discussion Thread [TDS Jan 2025]
+content_type: discourse
+tokens: 787
+username: Sudhishnarayan
+post_number: 86
+topic_id: 161083
+---
+
+discourse.onlinedegree.iitm.ac.in/t/161083/86)
+
+Good Evening, I have a doubt regarding the SQL Question I have attached my query. Please clarify me where I got wrong. I tried changing the gold string to lower and checking it. Even, that didn’t work.
+
+---
+
+**[Discussion Image by Sudhishnarayan]** This image depicts a student's attempt to answer a SQL coding question in the TDS "GA1 - Development Tools - Discussion Thread [TDS Jan 2025]". The question asks to calculate the total sales of all items in the "Gold" ticket type. The student's SQL query is `SELECT SUM(Units*Price) FROM tickets WHERE TYPE == 'Gold';`. The error message "Error: Got [[42810.5]].." suggests the query produced an incorrect result. Instructions below the error provide further clarification, specifying to ignore spaces and misspellings when filtering for "Gold" tickets, and to calculate sales as Units * Price, summing the result.or those rows. This suggests the student needs to refine their SQL query to address case sensitivity and ensure proper equality comparison." alt="Screenshot 2025-01-22 231718" data-base62-sha1="rfem0RTtcWqawL5SFIDKVkX7QUU" width="690" height="156" srcset="**[Discussion Image by Sudhishnarayan]** This image depicts a student's attempt to write SQL code to calculate the total sales of "Gold" tickets and the error received. The student's query is "SELECT SUM(Units*Price) FROM tickets WHERE TYPE == 'Gold';". The system returns an error message: "Error: Got [[42810.5]]..", indicating the query, while syntactically correct, did not produce the expected result. The accompanying text emphasizes correctly filtering rows for "Gold" tickets, even with variations in capitalization or spacing, and reiterates the calculation needed: Units * Price, summed up. This constitutes a student question and system feedback loop, highlighting a potential logical error in the SQL query preventing the correct answer., **[Discussion Image by Sudhishnarayan]** This image shows a student's attempt to write a SQL query for calculating total sales of "Gold" tickets and the resulting error message. The student's query is: `SELECT SUM(Units*Price) FROM tickets WHERE TYPE == 'Gold';`. However, this query produced an error: `Error: Got [[42810.5]]...`, indicating an issue with the SQL syntax or logic in the testing environment. The included instruction clarifies the task is to select all rows where 'Type' is "Gold", to handle variations in spelling like "GOLD" or "gold", and to calculate and sum the sales as Units * Price, suggesting potential areas for query refinement. It indicates that the student's initial SQL statement did not produce the expected result, and needs to be corrected to address the error and the spelling variations. 1.5x, **[Discussion Image by Sudhishnarayan]** This image shows a student submission for a SQL coding problem and the automated feedback. The student is asked to calculate the total sales of "Gold" tickets. The student's SQL code is `SELECT SUM(Units*Price) FROM tickets WHERE TYPE == 'Gold';`. The system returns an error indicating that the query returned the value `42810.5`. The prompt instructs the student to get all rows where the type is "Gold", ignore spaces, treat misspellings, calculate `Units * Price`, and sum them up. This feedback helps guide the student towards a correct solution. 2x" data-dominant-color="25292D">Screenshot 2025-01-22 2317181599×362 19.1 KB

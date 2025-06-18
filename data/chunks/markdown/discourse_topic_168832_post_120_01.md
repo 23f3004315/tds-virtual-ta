@@ -1,0 +1,20 @@
+---
+chunk_id: discourse_topic_168832_post_120_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/168832/120
+source_title: Remote Online Exam [TDS Jan 2025]
+content_type: discourse
+tokens: 207
+username: Haricharan
+post_number: 120
+topic_id: 168832
+---
+
+ deadline, my initial submission before 1:45 PM had already secured some marks, meaning I was not absent. Additionally, I recall you mentioning in Project 1 that students should focus on the learning experience rather than just the marks when someone said that this term’s project was tougher than the last.
+
+---
+
+Even if my increased marks were obtained after the deadline, they were still achieved by following all the given instructions and on my own terms and also everyone has different questions. If those changes were submitted in the same manner, I am unsure why they are not being considered. I understand it’s my mistake that I was not able to solve the entire ga in time but I had conditions which I had submitted in the feedback google form. Since this is a standalone degree for me, I’m actually worried about it. When I learned how to unlock the ROE, I completed it in a very short time.
+
+Please consider the top marks even when did after the normal deadline as marks still got submitted
+
+rollnumber 23f2001390

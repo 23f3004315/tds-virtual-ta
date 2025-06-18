@@ -1,0 +1,24 @@
+---
+chunk_id: discourse_topic_164277_post_109_02
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/164277/109
+source_title: Project 1 - LLM-based Automation Agent - Discussion Thread [TDS Jan 2025]
+content_type: discourse
+tokens: 244
+username: carlton
+post_number: 109
+topic_id: 164277
+---
+
+-hand navigation shows the user is within the "Large Language Models" section of the "Deployment Tools" module. 2x" data-dominant-color="EAEAEA">Screenshot 2025-02-11 at 3.36.50 pm2078×1276 305 KB
+
+---
+
+In our current internal build of project 1, we have yet to exceed $0.50
+
+As to whether it can be renewed is something we have still not yet decided, because the question you have raised equally would apply to everyone. Raising it for you means raising it for everyone. $1 for everyone equals raising it by $1600+ *(i.e Rs 1.39 Lakhs)* for us!
+
+The budget question then involves more than one person. It also involves the BS Team Operations and not just the TDS team and therefore instead of responding with a response that is not useful, we typically try to solve the problem first and then respond.
+
+In short we are working on it. But as we have mentioned repeatedly in our sessions, use APIs efficiently, thats part of the skill. As soon as we have a resolution we will inform everyone via an announcement and an email.
+
+Kind regards

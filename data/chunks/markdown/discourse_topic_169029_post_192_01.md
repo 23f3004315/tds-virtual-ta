@@ -1,0 +1,20 @@
+---
+chunk_id: discourse_topic_169029_post_192_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/169029/192
+source_title: Project 2 - TDS Solver - Discussion Thread
+content_type: discourse
+tokens: 929
+username: 22f3000819
+post_number: 192
+topic_id: 169029
+---
+
+https://discourse.onlinedegree.iitm.ac.in/t/169029/192)
+
+@Jivraj @Saransh_Saini
+
+Sir, in GA4 Question 7, the portal gives the boundary of ultra-new user as the exact time when it was opened, right?
+
+---
+
+**[Discussion Image by 22f3000819]** This image captures a section of a TDS student's discussion about "Project 2 - TDS Solver," specifically concerning the GitHub user search component. The student is prompted to "Enter the date (ISO 8601, e.g. '2024-01-01T00:00:00Z')" to find the newest GitHub user, indicating that the tool requires a date as input for filtering. The instructions also specify to "Search using location: and followers: filters, sort by joined descending, fetch the first url, and enter the created_at field," which outlines the methodology for retrieving user information, with an additional requirement to "Ignore ultra-new users who JUST joined, i.e. after 3/30/2025, 7:21:18 PM," suggesting a filtering criterion to exclude recent GitHub accounts. The context indicates a step-by-step guide for data retrieval and filtering within the context of the TDS Solver project, aiding students in correctly implementing the GitHub user search functionality while accounting for specific data requirements.a, and how to interpret the "created_at" field." alt="image" data-base62-sha1="kIdaYkWwtd5Iwnr2G8HEQkxszY9" width="690" height="118" srcset="**[Discussion Image by 22f3000819]** This image shows a part of a TDS student discussion, specifically instructions related to Project 2, the TDS Solver. The instructions ask the student to input a date in ISO 8601 format (e.g., "2024-01-01T00:00:00Z") representing when the newest user joined GitHub. The prompt further clarifies that the student should search using location and follower filters, sort the results by 'joined' in descending order, retrieve the first URL, and then input the 'created_at' field, while also noting that ultra-new users who have joined after March 30, 2025 at 7:21:18 PM should be ignored. Therefore, this is a problem-solving oriented guidance, aimed to resolve issues students might have when solving the problem., **[Discussion Image by 22f3000819]** This image depicts instructions for a task, likely part of a student assignment or project within a TDS (Technical Data Science) course. The task is to enter a specific date, formatted as an ISO 8601 string (e.g., "2024-01-01T00:00:00Z"), that corresponds to when the newest user joined GitHub. The instructions also direct the user to search using "location:" and "followers:", apply filters, sort by "joined" descending, fetch the first URL, and enter the "created_at" field while ignoring ultra-new users who joined after a specified date (3/30/2025, 7:21:18 PM). The instructions are associated with "Project 2 - TDS Solver" based on the broader discussion thread title, suggesting the image provides guidance to complete a specific step of the project. The highlighted keywords ("location", "followers", "joined", "created_at") suggest key parameters or fields in the GitHub API that needs to be queried or manipulated. 1.5x, **[Discussion Image by 22f3000819]** This image shows a snippet from a student discussion related to "Project 2 - TDS Solver". The snippet provides instructions for a task, specifically asking the user to "Enter the date (ISO 8601, e.g. '2024-01-01T00:00:00Z') when the newest user joined GitHub" in the input field. It also outlines the search parameters to use: location and followers, sorting by joined descending, fetching the first url, and entering the created_at field, while ignoring very new users. The task appears to involve finding GitHub users based on certain criteria and data filtering/parsing. The timestamp at the bottom indicates the time and date of this discussion entry: 3/30/2025, 7:21:18 PM. 2x" data-dominant-color="303439">image1602×275 34.1 KB

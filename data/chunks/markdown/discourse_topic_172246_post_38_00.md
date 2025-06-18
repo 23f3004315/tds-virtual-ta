@@ -1,0 +1,30 @@
+---
+chunk_id: discourse_topic_172246_post_38_00
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/172246/38
+source_title: Bonus Marks in TDS for Jan 25
+content_type: discourse
+tokens: 253
+username: 23F300327
+post_number: 38
+topic_id: 172246
+---
+
+## Post #38 by 23F300327
+
+**Direct Link**: [Post #38](https://discourse.onlinedegree.iitm.ac.in/t/172246/38)
+
+**@jkmadathil Sir**,
+
+Thank you for the detailed explanation. I just have one sincere doubt:
+
+As you mentioned, the intention behind the GA7 bonus is to reward extra effort in GAs—but why are 5 bonus marks being added to the **total course marks**, instead of awarding **15/100 of the total** to those who did GA7 exceptionally well?
+
+Students like me, who have consistently scored 100% in all GAs (excluding GA7) and have been actively participating in the Discourse forum from the beginning, seem to be left out. Don’t we deserve some recognition for our consistent efforts too?
+
+It’s not about jealousy—it’s about acknowledging those who have put in their day and night from the start, completing every GA diligently and earning bonus marks as per the criteria already defined for earlier GAs.
+
+I’m only concerned about **my own marks**, and I just wish for a fair system that values consistent effort across the term.
+
+Thank you for your time and understanding.
+
+@carlton @Jivraj

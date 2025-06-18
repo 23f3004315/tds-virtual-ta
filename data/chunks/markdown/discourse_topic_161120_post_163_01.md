@@ -1,0 +1,20 @@
+---
+chunk_id: discourse_topic_161120_post_163_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/161120/163
+source_title: GA2 - Deployment Tools - Discussion Thread [TDS Jan 2025]
+content_type: discourse
+tokens: 910
+username: Jivraj
+post_number: 163
+topic_id: 161120
+---
+
+itm.ac.in/t/161120/163)
+
+Hi @24DS1000121_ULAGAOOZ ,
+
+That’s because GitHub protects your email when an external website requests a GitHub Page. To disable this protection, create a `.nojekyll` file in your root folder of your repository.
+
+---
+
+**[Discussion Image by Jivraj]** This image captures a student's question regarding a GitHub Pages URL in the context of a TDS (The Data Science) assignment and a potential caching issue. The student provides a URL (`https://ulagaoozhian.github.io/TDS-page/`) that returns an error stating that "24ds1000121@ds.study.uitm.ac.in is not in the response," accompanied by the HTML source code of the page. The response is "My Model Page", including the email shown as "email protected". The student is also given a tip to "bust the cache" by adding "?v=1" or "?v=2" to the URL if recent changes aren't reflected. The Chrome DevTools panel shows the "TDS-page/" request, and the "Preview" tab displays the "My Model Page" content.to the URL to bypass the cache if recent changes are not being reflected, indicating a possible caching issue." alt="image" data-base62-sha1="ekQ9pMmEqDUyJ9Dc1NLQ4kCyCSV" width="690" height="293" srcset="**[Discussion Image by Jivraj]** This image captures a student's question and troubleshooting efforts within a "Deployment Tools" discussion. The student, ulagaoozhian, is asking about the correct format for a GitHub Pages URL and provides their attempted URL: `https://ulagaoozhian.github.io/TDS-page/`. They receive an error indicating that `24ds1000121@ds.study.uitm.ac.in` is not in the response, followed by the HTML source code of "My Model Page." The image also shows the Chrome DevTools, specifically the Network tab where the "TDS-page/" request is selected, revealing the "My Model Page" content in the preview. A suggestion is visible in the discussion to bust the cache using `?v=1` or `?v=2` if recent changes aren't reflected., **[Discussion Image by Jivraj]** This image captures a student's question and troubleshooting related to GitHub Pages deployment in the TDS Jan 2025 course, where the student, "ulagaoozhian", is attempting to access their deployed "TDS-page" using the URL `https://ulagaoozhian.github.io/TDS-page/`. However, the response shows the HTML content of the page along with an error message "24ds1000121@ds.study.iitm.ac.in is not in the response:", indicating a mismatch or incorrect configuration, possibly related to the expected user ID within the deployed content. The Chrome DevTools "Network" tab shows the page being loaded and displaying "My Model Page", with the email address shown as `[email protected]`, but the student's expected user ID is not found, and there's a suggestion to add `?v=1, ?v=2` to the URL for cache busting. The student is attempting to understand what the github URL may look like. 1.5x, **[Discussion Image by Jivraj]** This image captures a student encountering an issue with their GitHub Pages deployment during a TDS course assignment, specifically regarding the URL. The student, ulagaoozhian, has entered their expected GitHub Pages URL (https://ulagaoozhian.github.io/TDS-page/), but an error message appears indicating that the student's IITM email is not found in the response. The response (visible in the Preview tab of the browser's developer tools) shows the HTML content of the page, rendering "My Model Page" and a protected email address. The error likely means the expected content isn't being served, possibly due to caching or a deployment issue, and the image includes a suggestion to bust the cache by adding a version query parameter (?v=1, ?v=2) to the URL. This is a troubleshooting step during deployment, showing a confusion point with a potential solution, captured in the discussion thread. 2x" data-dominant-color="51555D">image1900×809 131 KB

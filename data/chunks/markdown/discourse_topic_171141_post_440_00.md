@@ -1,0 +1,30 @@
+---
+chunk_id: discourse_topic_171141_post_440_00
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/171141/440
+source_title: Tds-official-Project1-discrepencies
+content_type: discourse
+tokens: 302
+username: Haricharan
+post_number: 440
+topic_id: 171141
+---
+
+## Post #440 by Haricharan
+
+**Direct Link**: [Post #440](https://discourse.onlinedegree.iitm.ac.in/t/171141/440)
+
+Respected Sir,
+
+Yes Sir, I said the same, `.env` was not able to be uploaded to repo as .env file was not allowed to be uploaded
+when we download the repository it doesn’t have the `.env` file,
+for docker image to build we need to add `.env` with `AIPROXY_TOKEN`
+after that docker image will build, I had given about this in previous message
+As you said Sir that you will use separate `AIPROXY_TOKEN`…you can put that in `.env` file and build the docker image
+after that Sir its optional to pass `AIPROXY_TOKEN` again while running the docker Image
+just the `.env` file required, even without token in that it will work as project has support for both AIPROXY token in .env file and as environment variable
+
+and when I uploaded to repository the .env file was not allowed to upload so had submitted that way, I actually forgot to add step for running the docker image in the previous message, the steps which I used:
+
+`git clone https://github.com/23f2001390/llmagent.git
+`
+adding `.env` with AIPROXY token and replacing `evaluate.py` and `datagen.py` with new ones according to test environment

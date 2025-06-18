@@ -1,0 +1,18 @@
+---
+chunk_id: discourse_topic_171141_post_222_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/171141/222
+source_title: Tds-official-Project1-discrepencies
+content_type: discourse
+tokens: 806
+username: gouthamnischay
+post_number: 222
+topic_id: 171141
+---
+
+itm.ac.in/t/171141/222)
+
+Hi just wanted to know, there was no mail prior stating to keep the Dockerfile in the root folder of the repo (correct me if im wrong). Therefore i have put everything inside a folder - wont this be considered? Please clarify if possible.
+
+---
+
+**[Discussion Image by gouthamnischay]** This image shows a screenshot of a GitHub repository named "tds_project1," which is public and has the "main" branch selected. The repository contains a directory named "tds-project-1", a LICENSE file, and a README.md file, along with a README file at the bottom. The latest commit, "21f1002409," is labeled "done" and was made two months ago with 14 commits. The user interface elements include the "Add file" and "Code" buttons, and a search bar labeled "Go to file." The screenshot appears to be from a peer discussion, showing the structure of a student's project repository for the TDS project, potentially to clarify discrepancies or differences in project structure or content. that prompted the discussion. The "14 Commits" label hints at active collaboration and potential discrepancies from past changes." alt="Screenshot 2025-04-02 at 11.41.14 PM" data-base62-sha1="yGLJpNbDtFyR6odAOMjGDE5bwWA" width="690" height="274" srcset="**[Discussion Image by gouthamnischay]** This image shows a GitHub repository named "tds_project1," likely related to a TDS (Team Data Science?) project. The view displays the main branch, with the file and folder structure including "tds-project-1," "LICENSE," and "README.md." The most recent commit, labelled "done" and with the SHA "21f1002409," was made 2 months ago and has 14 commits. The discussion likely revolves around discrepancies or issues within this project, with the image shared to provide visual context of the repository structure. The presence of a LICENSE file indicates an open-source project, and the README suggests documentation or project information is available., **[Discussion Image by gouthamnischay]** This image represents the file structure of a public GitHub repository named "tds_project1". It shows the "main" branch with one branch and zero tags, featuring a search bar to "Go to file" and options to "Add file" or view the "<> Code". The repository contains files such as LICENSE, README.md, and a README file with an MIT license, and also a folder named "tds-project-1". The most recent commit, associated with the ID "21f1002409", is labeled "done" and was committed 2 months ago, with 14 total commits to the project. This listing allows users to navigate and understand the organization of the project's files and history. 1.5x, **[Discussion Image by gouthamnischay]** This image captures a student's view of their GitHub repository for the "tds_project1" project, indicating a peer discussion or a question being asked about the repository's structure. It shows the main branch with one branch and no tags, along with a commit history of 14 commits, as well as the project structure including a 'tds-project-1' directory, LICENSE, and README.md files. The commits are labeled "done", "initial commit", and "readme changes", with timestamps of approximately 2 months ago. Students might be confused about the structure or commit history, prompting a question and subsequent peer discussion within the "Tds-official-Project1-discrepencies" thread. 2x" data-dominant-color="15191E">Screenshot 2025-04-02 at 11.41.14 PM1884×750 69.2 KB

@@ -1,0 +1,20 @@
+---
+chunk_id: discourse_topic_161083_post_34_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/161083/34
+source_title: GA1 - Development Tools - Discussion Thread [TDS Jan 2025]
+content_type: discourse
+tokens: 908
+username: roy2003
+post_number: 34
+topic_id: 161083
+---
+
+ [Post #34](https://discourse.onlinedegree.iitm.ac.in/t/161083/34)
+
+@carlton @Jivraj
+
+In this picture for the given question i have tried in python and chatgpt both are giving same answer still showing wrong. GA1 question
+
+---
+
+**[Discussion Image by roy2003]** This image depicts a student's attempt to solve a coding problem related to counting Wednesdays within a specified date range (1986-08-09 to 2012-06-19). The student is using a Python script that utilizes the `datetime` module to iterate through dates, checking if each one is a Wednesday and incrementing a counter accordingly. The code defines `start_date` and `end_date`, finds the first Wednesday on or after the start date, then counts Wednesdays by jumping 7 days at a time, but the initial submission "1349" is incorrect, resulting in a "Try again" message from the autograder. The system displays the correct answer as "There are 1349 Wednesdays in the date range from August 9, 1986, to June 19, 2012", indicating a potential issue with the date parsing, or a misunderstanding of including both start and end date in the count.th the date range or counting logic." alt="Neutral Minimal Photo Collage Mood Board Instagram Story" data-base62-sha1="eNg7aGKIBWMaSsv7Irl2vZeWo5c" width="281" height="500" srcset="**[Discussion Image by roy2003]** This post appears to be a student (roy2003) submitting code for an assignment called "Count Wednesdays" and receiving automated feedback. The task is to count the number of Wednesdays between August 9, 1986, and June 19, 2012, inclusive, using year-month-day date format. The student's Python code uses the `datetime` module to iterate through the date range, incrementing a counter for each Wednesday encountered. The output shows "1349" but the system indicates "Incorrect. Try again.". Although no explicit errors are present, the student likely needs to debug their logic or adjust the date range inclusion to arrive at the correct count., **[Discussion Image by roy2003]** This image captures a student working on an assignment to count the number of Wednesdays between "1986-08-09" and "2012-06-19." The student's initial answer, "1349", was marked as incorrect by the system, with the prompt to "Try again." The student then uses Python code including `datetime`, `date`, and `timedelta` to define a date range, find the first Wednesday, and iterate to count Wednesdays within the range. The python output in the terminal shows "Number of Wednesdays: 1349" which indicates the program is running correctly, even though the online assignment marker is incorrect. The code initially adds `timedelta(days -1)` to get to the first Wednesday and then erroneously adds `timedelta(days - 7)` instead of `timedelta(days = 7)` inside the loop that counts the Wednesdays. 1.5x, **[Discussion Image by roy2003]** This image shows a student's attempt to solve the "Count Wednesdays" coding problem and the subsequent error message. The student enters "1349" as their answer but receives "Incorrect. Try again" and a reminder that dates are in year-month-day format, implying a likely date range calculation error. The student's Python code uses the `datetime` module to calculate the number of Wednesdays within the given date range of 1986-08-09 to 2012-06-19. The code initializes `start_date` and `end_date`, then iterates to find the first Wednesday, after which it counts Wednesdays by incrementing by 7 days until exceeding the `end_date`, finally printing the total `wednesday_count`. The terminal output confirms the code execution, also outputting the student's answer of "Number of Wednesdays: 1349" aligning with their initial incorrect response to the problem. 2x" data-dominant-color="4D4E4E">Neutral Minimal Photo Collage Mood Board Instagram Story1080×1920 119 KB

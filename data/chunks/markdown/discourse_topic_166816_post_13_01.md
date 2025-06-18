@@ -1,0 +1,20 @@
+---
+chunk_id: discourse_topic_166816_post_13_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/166816/13
+source_title: Graded Assignments Dashboard Scores Incorrect/Missing
+content_type: discourse
+tokens: 947
+username: AnvithaV
+post_number: 13
+topic_id: 166816
+---
+
+.onlinedegree.iitm.ac.in/t/166816/13)
+
+Sir, I have attempted the graded assignment 2 and also saved it but my score is showing as absent. Please look into the issue sir.
+
+My email id is 23f1002071@ds.study.iitm.ac.in
+
+---
+
+**[Discussion Image by AnvithaV]** This image depicts a student's view of an assignment dashboard, part of a peer discussion about potentially incorrect or missing grades. The top of the screen shows the assignment ended on February 2, 2025, with a displayed score of 0, along with buttons to "Check all" and "Save." The user is logged in with their IITM study account. A "Recent saves" section lists prior attempts, with corresponding "Reload" buttons and scores (e.g., 5.5 on 2/3/2025, 5.5 on 2/2/2025, and 2 on 2/2/2025), with the most recent save being the official score. This likely demonstrates the student's confusion regarding the discrepancy between the displayed current score and the saved attempts.nitial score displays as zero when recent saves show a higher score." alt="graded assignment page" data-base62-sha1="jpBRmoigeZCBLlMTJK60IsWXcYU" width="690" height="283" srcset="**[Discussion Image by AnvithaV]** This image captures a student's view of a graded assignment dashboard in TDS, showing potentially incorrect scoring. The interface indicates the assignment ended on February 2, 2025, with a current "Score: 0" displayed, and options to "Check all" and "Save." The student, logged in as "23f1002071@ds.study.iitm.ac.in," has access to "Recent saves" with timestamps and scores, including "Score: 5.5" from February 3, 2025, at 10:27:40 AM, as well as previous saves with different scores that can be reloaded using the "Reload" button. This highlights a discrepancy between the current displayed score and previous saved scores. The student can also navigate to the Discourse forum for help using the provided link., **[Discussion Image by AnvithaV]** This image depicts a student's view of an assignment dashboard in an online learning system, showing a possible score discrepancy. The dashboard indicates the assignment "Ended at Sun, 2 Feb, 2025, 11:59 pm IST" and a current "Score: 0," despite "Recent saves" showing prior scores of 5.5, 5.5, and 2 from different save timestamps, with a label clarifying "(most recent is your official score)". The student is logged in as "23f1002071@ds.study.iitm.ac.in" and has options to "Logout," "Check all," and "Save," as well as "Reload" individual save states; a red banner suggests the assignment deadline has passed and a current grade reflects a zero. A link to "Join the discussion on Discourse" invites students to a forum. This indicates that the student is likely confused or questioning why the current score is zero despite saved progress, prompting them to seek help in the discussion forum. 1.5x, **[Discussion Image by AnvithaV]** This image likely represents a student's view of a graded assignment dashboard, showing potential scoring discrepancies. The interface indicates the assignment "Ended at Sun, 2 Feb, 2025, 11:59 pm IST" and displays a "Score: 0" despite recent saves listed below. Under "Recent saves (most recent is your official score)," the student sees a history of saved attempts with associated timestamps and scores, such as "from 2/3/2025, 10:27:40 AM. Score: 5.5" and "from 2/2/2025, 7:29:26 PM. Score: 5.5," as well as an older save with "Score: 2." The student is logged in with their student ID (@ds.study.iitm.ac.in) and has options to "Check all," "Save," "Logout", and reload previous submissions; this discrepancy between the displayed score (0) and recent saved scores (5.5) likely prompts the student's question about incorrect or missing scores. 2x" data-dominant-color="282728">graded assignment page1886×776 45.5 KB

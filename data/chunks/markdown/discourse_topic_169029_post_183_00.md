@@ -1,0 +1,28 @@
+---
+chunk_id: discourse_topic_169029_post_183_00
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/169029/183
+source_title: Project 2 - TDS Solver - Discussion Thread
+content_type: discourse
+tokens: 188
+username: 23f3003871
+post_number: 183
+topic_id: 169029
+---
+
+## Post #183 by 23f3003871
+
+**Direct Link**: [Post #183](https://discourse.onlinedegree.iitm.ac.in/t/169029/183)
+
+Dear Sir
+
+Is there any limite for request on tokens. because now my model does not generate any output. for any question also not showing any error. could you please explain.
+
+When i hit request on this (curl -X POST “http://localhost:8000/api/”
+
+-H “Content-Type: multipart/form-data”
+
+-F "question=Let’s make sure you can write formulas in Google Sheets. Type this formula into Google Sheets. (It won’t work in Excel)
+
+=SUM(ARRAY_CONSTRAIN(SEQUENCE(100, 100, 1, 9), 1, 10))
+
+What is the result?") this is not showing any kind of output or error not only on this request any other also.

@@ -1,0 +1,12 @@
+---
+chunk_id: discourse_topic_170309_post_2_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/170309/2
+source_title: GA4 bonus marks
+content_type: discourse
+tokens: 511
+username: carlton
+post_number: 2
+topic_id: 170309
+---
+
+**[Discussion Image by carlton]** This image is a post made by an instructor, carlton, on a TDS student discussion forum about "GA4 bonus marks." It specifies that IITM BS students will receive one bonus mark on a graded assignment for posting a relevant question or reply to the "GA4 - Data Sourcing - Discussion Thread [TDS Jan 2025]" on Discourse. The goal is to encourage student engagement in the discussion forum. This is not a troubleshooting guide but rather an incentive announcement for participating in a specific discussion thread.vg63NQeOCt2TA1QPF7QmnHAiF" width="689" height="60" srcset="**[Discussion Image by carlton]** This image shows a post from the course instructor explaining the bonus mark policy for the "GA4 bonus marks" discussion. ITM BS students can get a bonus mark on a graded assignment by posting a relevant question or reply in the "GA4 - Data Sourcing - Discussion Thread [TDS Jan 2025]" discussion. This policy aims to encourage students to engage in discussions on the Discourse platform. The post clearly outlines the condition for earning the bonus mark., **[Discussion Image by carlton]** This image is a post from the course instructor regarding bonus marks on Discourse. It states that IITM BS students will receive one bonus mark on a graded assignment if they reply to the "GA4 - Data Sourcing - Discussion Thread [TDS Jan 2025]" with a relevant question or reply. The purpose is to encourage student discussions on the platform. No code, error messages, or navigation steps are presented, only an incentive for participation. It appears to be an announcement of learning guidance by the instructor to incentivize student participation. 1.5x, **[Discussion Image by carlton]** This image is an instructor's announcement offering bonus marks. Students from the IITM BS program can earn 1 bonus mark on a graded assignment by posting a relevant question or reply to the "GA4 - Data Sourcing - Discussion Thread [TDS Jan 2025]" on the Discourse forum. The announcement aims to encourage student engagement and discussion within the specified thread. No troubleshooting or code is displayed in the image. 2x" data-dominant-color="C7D9D1">Screenshot 2025-03-18 at 11.02.31 am2566×224 23.2 KB

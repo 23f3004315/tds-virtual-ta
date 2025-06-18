@@ -1,0 +1,20 @@
+---
+chunk_id: discourse_topic_163247_post_96_01
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/163247/96
+source_title: GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]
+content_type: discourse
+tokens: 810
+username: Jivraj
+post_number: 96
+topic_id: 163247
+---
+
+.onlinedegree.iitm.ac.in/t/163247/96)
+
+Check with network tab, you would see the response of api call being made, Compare that with expected output.
+
+Regrading question 8, you would need to check if cors are enabled, check in browser console tab for more.
+
+---
+
+**[Discussion Image by Jivraj]** This image depicts a student debugging an API call within the Chrome Developer Tools "Network" tab during a discussion thread about Large Language Models. Two requests are logged with the name that starts with "1.0?cors=true&content-type". By selecting the "Response" tab for one of these requests, the student can inspect the JSON response data, which in this case is {"acc":1, "webResult":{}}. This indicates the student is likely examining API responses and troubleshooting the data being returned by the LLM service they are integrating. The "cors=true" query parameter suggests CORS (Cross-Origin Resource Sharing) issues might be relevant, hinting the student may be working on a web application making requests to a different domain. in the context of Large Language Models, potentially indicating confusion about the data being transmitted." alt="image" data-base62-sha1="e7u8RryIReQgQvSqTmTLPBVedyp" width="690" height="339" srcset="**[Discussion Image by Jivraj]** This image depicts a student's troubleshooting process, showing their browser's developer tools. The student is examining network requests, specifically focusing on Fetch/XHR requests to debug their GA3 project. The screenshot highlights the "Network" tab within the developer tools, filtering for "Fetch/XHR" requests and showing two identical requests. The student has selected one of these requests and is viewing the "Response" tab, which displays a JSON object: `{"acc":1,"webResult":{}}`, indicating the server responded with an object containing an 'acc' field set to 1 and an empty 'webResult' object. The displayed information is likely helping the student diagnose unexpected behavior related to their GA3 application's network communication., **[Discussion Image by Jivraj]** This screenshot depicts a student's debugging process, likely within the context of the "GA3 - Large Language Models - Discussion Thread" in a TDS (The Data Science) course. The image captures the Chrome Developer Tools' Network tab, showing two identical requests to an endpoint "1.0?cors=true&content-type=application/x-json-stre...". The Response tab is selected, displaying a JSON response: `{ "acc": 1, "webResult": {} }`, indicating a successful but possibly incomplete or empty response, leading the student to investigate further using the Network tab. The student is likely analyzing the API request and response in the browser to understand why the webResult is empty. This is a peer discussion as it is a screenshot of a debugging situation that a student faced in the TDS course. 1.5x, **[Discussion Image by Jivraj]** This image shows a student's view of browser's developer tools, specifically the "Network" tab, during the "GA3 - Large Language Models" discussion. The student is inspecting network requests related to the application's communication, likely as part of debugging or understanding API interactions. Two requests are listed that start with "1.0?cors=true&content-type=...", each representing a network call with specific parameters. By selecting the request, the "Response" tab is active and shows a JSON payload: `{"acc":1,"webResult":{}}`. This likely indicates the response data received from the server after making these requests. This context suggests a student trying to troubleshoot API responses or data flow within their LLM application, perhaps encountering unexpected behavior and inspecting the network communication to identify the cause. 2x" data-dominant-color="3B3936">image1909×939 126 KB
