@@ -20,6 +20,8 @@ TDS Virtual Teaching Assistant
 Project Overview
 The TDS Virtual Teaching Assistant is an AI-powered question-answering system developed as a student project for the Tools in Data Science course. This application leverages Retrieval-Augmented Generation (RAG) technology to provide intelligent responses to course-related queries with comprehensive source attribution.
 
+
+
 Key Features
 
 RAG-based Architecture: Combines semantic search with AI generation for accurate, contextual responses
@@ -37,7 +39,6 @@ Real-time Source Attribution: Provides working links to relevant course resource
 
 Multi-modal Support: Handles both text queries and image-based questions
 
-Production-Ready Deployment
 FastAPI Web Framework: Modern, high-performance API with automatic documentation
 
 Docker Containerization: Consistent deployment across environments
@@ -45,6 +46,8 @@ Docker Containerization: Consistent deployment across environments
 HuggingFace Spaces Hosting: Free cloud deployment 
 
 Git LFS Integration: Efficient handling of large embedding files
+
+
 
 Technology Stack
 Backend Framework
@@ -63,6 +66,8 @@ Sentence Transformers: Semantic text processing
 
 Google Gemini: Large language model integration
 
+
+
 DevOps & Deployment
 Docker: Application containerization
 
@@ -71,6 +76,7 @@ uv: Modern Python dependency management
 Git LFS: Large file version control
 
 HuggingFace Spaces: Cloud deployment platform
+
 
 
 API Endpoints
